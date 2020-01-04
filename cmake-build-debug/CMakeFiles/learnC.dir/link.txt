@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblearnC.a  CMakeFiles/learnC.dir/list.c.o
+/usr/bin/ranlib liblearnC.a
